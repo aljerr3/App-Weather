@@ -1,5 +1,4 @@
 <script lang="ts">
-  import Footer from "./components/footer.svelte";
   import Weather from "./components/weather.svelte";
 </script>
 
@@ -7,7 +6,6 @@
   <h1 class="fs-1">Aplicación del Clima</h1>
   <hr />
   <Weather />
-  <Footer />
 </main>
 
 <style>
