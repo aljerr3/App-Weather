@@ -1,5 +1,5 @@
 <script lang="ts">
-  import Weather from "./components/weather.svelte";
+  import Weather from "./components/Weather.svelte";
 </script>
 
 <main style="text-align: center;">
