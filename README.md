@@ -1,6 +1,9 @@
 ## Qué hace?
 
 Esta aplicación sirve para demostrar el funcionamiento del Fecth en Svelte. Básicamente se conecta a la Api de https://openweathermap.org/ extrae los datos y los muestra. Adicionalmente hago uso de la librería Animate.css para animar y generar transiciones. Se busca explotar la reactividad que brinda Svelte.
+___________________________________________________________________________________________________________________________________________________________________________
+
+This application serves to demonstrate the operation of Fecth in Svelte. It basically connects to the api of https://openweathermap.org/ extracts the data and displays it. Additionally I make use of the Animate library.css to animate and generate transitions. It seeks to exploit the reactivity provided by Svelte.
 
 
 *Note that you will need to have [Node.js](https://nodejs.org) installed.*
