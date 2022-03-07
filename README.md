@@ -1,16 +1,7 @@
+## Qué hace?
+
 Esta aplicación sirve para demostrar el funcionamiento del Fecth en Svelte. Básicamente se conecta a la Api de https://openweathermap.org/ extrae los datos y los muestra. Adicionalmente hago uso de la librería Animate.css para animar y generar transiciones. Se busca explotar la reactividad que brinda Svelte.
----
 
-# svelte app
-
-This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
-
-To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
-
-```bash
-npx degit sveltejs/template svelte-app
-cd svelte-app
-```
 
 *Note that you will need to have [Node.js](https://nodejs.org) installed.*
 
