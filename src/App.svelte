@@ -1,0 +1,21 @@
+<script lang="ts">
+  import Footer from "./components/footer.svelte";
+  import Weather from "./components/weather.svelte";
+</script>
+
+<main style="text-align: center;">
+  <h1 class="fs-1">Aplicación del Clima</h1>
+  <hr />
+  <Weather />
+  <Footer />
+</main>
+
+<style>
+  main {
+    background-color: rgb(236, 236, 236);
+  }
+  .fs-1 {
+    background-color: rgb(218, 64, 116);
+    color: rgb(255, 255, 255);
+  }
+</style>
